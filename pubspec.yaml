@@ -1,0 +1,7 @@
+name: config_reader
+version: 0.0.1
+author: Brandon White <jennexproject+configreader@gmail.com>
+description: Read and parse config files (.ini) from the filesystem.
+homepage: http://jennex.it/
+environment:
+  sdk: '>=1.12.0 <2.0.0'
